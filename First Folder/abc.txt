@@ -1,0 +1,2 @@
+- This is a simple text file to check the folder creation facility in a Repository.
+- It was found that, after selecting the "Create File" button, in the file naming section/box in the top, adding a "/" after the name of the folder that is keyed in, automatically creates a folder and puts in another box for putting in the file name.
